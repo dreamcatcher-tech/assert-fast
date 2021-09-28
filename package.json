@@ -1,0 +1,16 @@
+{
+  "name": "assert-fast",
+  "version": "1.0.1",
+  "description": "Fast and minimal module for runtime assertions in nodejs and the browser ",
+  "main": "index.js",
+  "repository": "git@github.com:dreamcatcher-tech/assert-fast.git",
+  "author": "evil_liskov <evil_liskov@protonmail.com>",
+  "license": "AGPL-3.0",
+  "private": false,
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  }
+}
