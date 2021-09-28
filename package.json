@@ -1,6 +1,6 @@
 {
   "name": "assert-fast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fast and minimal module for runtime assertions in nodejs and the browser ",
   "main": "index.js",
   "repository": "git@github.com:dreamcatcher-tech/assert-fast.git",
